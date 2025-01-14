@@ -15,6 +15,6 @@ c
 - **Others**: RESTful API, Core Data, Firebase
 
   ## Connect with Me
-  - [LinkedIn](https://www.(linkedin.com/in/nevin-özkan-5592a1257))
+  - [LinkedIn](https://www.linkedin.com/in/nevin-özkan-5592a1257)
 
 Thanks for visiting my profile! 😊
