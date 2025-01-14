@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**NevinOzkan/NevinOzkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm NevinOzkan! 👋
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 I'm an iOS developer constantly striving to improve my skills. I focus on creating user-friendly and performant applications using UIKit.
+
+🌱 Currently, I'm learning more about advanced iOS development techniques and best practices.
+
+💬 Feel free to ask me about iOS development, Swift, and UIKit.
+
+- **Languages**: Swift
+- **Frameworks**: UIKit
+- **Tools**: Xcode, Git, CocoaPods
+- **Others**: RESTful API, Core Data, Firebase
+
+  ## Connect with Me
+- [LinkedIn](linkedin.com/in/nevin-özkan-5592a1257)
+
+Thanks for visiting my profile! 😊
