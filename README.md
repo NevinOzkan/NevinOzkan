@@ -1,4 +1,4 @@
-
+c
 # Hello, I'm NevinOzkan! 👋
 
 ## About Me
@@ -15,6 +15,7 @@
 - **Others**: RESTful API, Core Data, Firebase
 
   ## Connect with Me
-- [LinkedIn](linkedin.com/in/nevin-özkan-5592a1257)
+  - Linkedin
+   (linkedin.com/in/nevin-özkan-5592a1257)
 
 Thanks for visiting my profile! 😊
