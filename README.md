@@ -1,4 +1,4 @@
-c
+
 # Hello, I'm NevinOzkan! 👋
 
 ## About Me
